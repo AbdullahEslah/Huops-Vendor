@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>466513854712-upntruvhgkqkir6u9v89qc5un3r7ofi2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.466513854712-upntruvhgkqkir6u9v89qc5un3r7ofi2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>466513854712-2rh17bqupcfdvg0idjfs0f7c3ss3lpim.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzJVEs7_ryrMihNxjAVxuzRqPfpMMK8I4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>466513854712</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.huops.vendorsapp</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-huops-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-huops-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:466513854712:ios:29b2d1bab33417137ebb0d</string>
+</dict>
+</plist>
